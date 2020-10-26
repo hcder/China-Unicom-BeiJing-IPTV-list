@@ -1,6 +1,6 @@
 #EXTM3U name="bj-unicom-iptv"
 
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz"
+#EXTM3U x-tvg-url="https://raw.fastgit.org/supzhang/epg/master/e.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视",BTV北京卫视[高清]
 http://10.0.0.1:8118/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="BTV新闻",BTV新闻[高清]
