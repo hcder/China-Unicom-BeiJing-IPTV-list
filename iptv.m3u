@@ -10,10 +10,10 @@ http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 
 #EXTINF:-1,CHC高清电影
-http://iptv.imut.edu.cn/hls/chchd.m3u8
+http://iptv.hncj.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1,CCTV-13高清
-http://iptv.imut.edu.cn/hls/cctv13hd.m3u8
+http://iptv.imut.edu.cn/hls/jlu_cctv13.m3u8
 
 #EXTINF:-1,CCTV-1高清
 http://10.0.0.1:8118/rtp/239.3.1.129:8008
