@@ -1,7 +1,7 @@
 #EXTM3U name="bj-unicom-iptv"
 
 #EXTINF:-1,CCTV-4K[超清HDR]
-http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1204.stream/playlist.m3u8
+http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
 
 #EXTINF:-1,凤凰卫视中文[高清]
 http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
@@ -10,13 +10,13 @@ http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 
 #EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
+http://iptv.imut.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1,CCTV-13高清
-http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+http://iptv.imut.edu.cn/hls/hls186a13.m3u8
 
 #EXTINF:-1,CGTN高清
-http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+http://iptv.imut.edu.cn/hls/hls67a43.m3u8
 
 #EXTINF:-1,CCTV-1高清
 http://10.0.0.1:8118/rtp/239.3.1.129:8008
