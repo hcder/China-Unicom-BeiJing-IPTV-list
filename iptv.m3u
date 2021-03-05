@@ -53,6 +53,9 @@ http://ipv6.iptv.devgox.com/hls/hls78a47.m3u8
 #EXTINF:-1,时光剧场高清
 http://ipv6.iptv.devgox.com/hls/hls78a48.m3u8
 
+#EXTINF:-1,游戏风云高清
+http://ipv6.iptv.devgox.com/hls/hls184a637.m3u8
+
 #EXTINF:-1,4K超清
 http://10.0.0.1:8118/rtp/239.3.1.249:8001
 
